@@ -1,7 +1,19 @@
+.font-branca {
+    color: white;
+}
+
 .texto-menor {
     font-size: 13px;
 }
 
 .divs-facilidades {
     width: 325px;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.full-width {
+    width: 100%;
 }
