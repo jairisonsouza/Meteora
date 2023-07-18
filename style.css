@@ -1,5 +1,5 @@
-.font-branca {
-    color: white;
+.font-verde-limao {
+    color: #DAFF01;
 }
 
 .texto-menor {
@@ -16,4 +16,8 @@
 
 .full-width {
     width: 100%;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
 }
